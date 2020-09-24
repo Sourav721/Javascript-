@@ -32,3 +32,5 @@ let newperson1 = {...person1};//it generally return a object
 console.log(newperson1);
 let person2 ={...person1,dob:"10-12-1995"};//we can add a property like this
 console.log(person2);
+
+
